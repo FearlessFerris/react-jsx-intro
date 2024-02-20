@@ -1,0 +1,15 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.tweet {
+    width: 300px;
+    height: 200px;
+    border-radius: 5px;
+    background-color: cyan;
+    padding: 20px;
+    margin: 10px;
+}
